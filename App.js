@@ -1,3 +1,5 @@
+/* ATIVIDADE FEITA EM DUPLA - COM AKEMI */
+
 import * as React from "react";
 import { Text, View, StyleSheet, Image, ScrollView } from "react-native";
 
